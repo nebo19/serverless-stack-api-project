@@ -22,4 +22,4 @@ export async function main(event, context) {
     } catch (e) {
         return failure({ status: false });
     }
-}    
+}
